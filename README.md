@@ -13,7 +13,7 @@ PRN: 202501040119
 
 ## 📌 Preskilet Work
 
-* [Watch Video](https://youtu.be/rNFQ5Hv6qZ8?si=ivPVQDBMjC6pT3KV)
+* [Watch Video](https://youtu.be/rNFQ5Hv6qZ8)
 * [View PPT](https://docs.google.com/presentation/d/1MNiBhrRy9rRzJvsP7hNSg06eehBEWX2y/edit?usp=drive_link&ouid=116072741167849408866&rtpof=true&sd=true)
 
 ## 📜 CISCO Certificate
