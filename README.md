@@ -19,6 +19,7 @@ PRN: 202501040119
 ## 📜 CISCO Certificate
 Python 1
 * [View Certificate](https://drive.google.com/file/d/1CaedfKm0bj8Q9LOIUhzJH1YgWgaD2SGQ/view?usp=drive_link)
+
 Python 2
 * [View Certificate](https://drive.google.com/file/d/1HUXWUIJbxqyuwBkvJrPKlLN84ZLFoOHj/view?usp=drive_link)
 
