@@ -23,6 +23,10 @@ Python 1
 Python 2
 * [View Certificate](https://drive.google.com/file/d/1HUXWUIJbxqyuwBkvJrPKlLN84ZLFoOHj/view?usp=drive_link)
 
+## 🏅 IBM Certificate
+
+- [View IBM Certificate](https://drive.google.com/file/d/19PLQPHHqEngtkGV8c7M45SLmWlflOPrJ/view)
+
 ## 📂 Assignments
 
 * [Assignment 1](https://drive.google.com/drive/folders/1X3alIRxY9pyci6CfT8onbhfExXS5zKrQ?usp=drive_link)
